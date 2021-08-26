@@ -1,0 +1,15 @@
+h1{
+    color:red;
+    font-size: 40px;
+}
+#my_canvas{
+   border-width:10px ;
+   background-color:rgb(253, 253, 253) ;
+   border-style:ridge ;
+   border-color: black;
+}
+.body_background{
+background-image: url("colored-pencils-heart-background-eps-10-vector-4774924.jpg");
+background-position: center;
+background-size: cover;
+}
